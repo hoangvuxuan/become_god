@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\become_god\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|d:\\c#\\become_god\\become_god\\show_job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|solutionrelative:become_god\\show_job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|d:\\c#\\become_god\\become_god\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|solutionrelative:become_god\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|d:\\c#\\become_god\\become_god\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|solutionrelative:become_god\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|d:\\c#\\become_god\\become_god\\daily_plain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|solutionrelative:become_god\\daily_plain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\c#\\become_god\\become_god\\Form1.cs",
+              "RelativeDocumentMoniker": "become_god\\Form1.cs",
+              "ToolTip": "D:\\c#\\become_god\\become_god\\Form1.cs",
+              "RelativeToolTip": "become_god\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAvwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:57:04.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "show_job.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\become_god\\become_god\\show_job.cs",
+              "RelativeDocumentMoniker": "become_god\\show_job.cs",
+              "ToolTip": "D:\\c#\\become_god\\become_god\\show_job.cs [Design]",
+              "RelativeToolTip": "become_god\\show_job.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:48:06.703Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "daily_plain.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\become_god\\become_god\\daily_plain.cs",
+              "RelativeDocumentMoniker": "become_god\\daily_plain.cs",
+              "ToolTip": "D:\\c#\\become_god\\become_god\\daily_plain.cs [Design]",
+              "RelativeToolTip": "become_god\\daily_plain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:32:12.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\become_god\\become_god\\Form1.cs",
+              "RelativeDocumentMoniker": "become_god\\Form1.cs",
+              "ToolTip": "D:\\c#\\become_god\\become_god\\Form1.cs [Design]",
+              "RelativeToolTip": "become_god\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:10:19.923Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

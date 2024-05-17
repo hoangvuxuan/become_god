@@ -1,0 +1,16 @@
+D:\c#\become_god\become_god\bin\Debug\net8.0-windows\become_god.exe
+D:\c#\become_god\become_god\bin\Debug\net8.0-windows\become_god.deps.json
+D:\c#\become_god\become_god\bin\Debug\net8.0-windows\become_god.runtimeconfig.json
+D:\c#\become_god\become_god\bin\Debug\net8.0-windows\become_god.dll
+D:\c#\become_god\become_god\bin\Debug\net8.0-windows\become_god.pdb
+D:\c#\become_god\become_god\obj\Debug\net8.0-windows\become_god.Form1.resources
+D:\c#\become_god\become_god\obj\Debug\net8.0-windows\become_god.csproj.GenerateResource.cache
+D:\c#\become_god\become_god\obj\Debug\net8.0-windows\become_god.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\become_god\become_god\obj\Debug\net8.0-windows\become_god.AssemblyInfoInputs.cache
+D:\c#\become_god\become_god\obj\Debug\net8.0-windows\become_god.AssemblyInfo.cs
+D:\c#\become_god\become_god\obj\Debug\net8.0-windows\become_god.csproj.CoreCompileInputs.cache
+D:\c#\become_god\become_god\obj\Debug\net8.0-windows\become_god.dll
+D:\c#\become_god\become_god\obj\Debug\net8.0-windows\refint\become_god.dll
+D:\c#\become_god\become_god\obj\Debug\net8.0-windows\become_god.pdb
+D:\c#\become_god\become_god\obj\Debug\net8.0-windows\become_god.genruntimeconfig.cache
+D:\c#\become_god\become_god\obj\Debug\net8.0-windows\ref\become_god.dll
