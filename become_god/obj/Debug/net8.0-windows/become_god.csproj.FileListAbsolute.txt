@@ -14,3 +14,6 @@ D:\c#\become_god\become_god\obj\Debug\net8.0-windows\refint\become_god.dll
 D:\c#\become_god\become_god\obj\Debug\net8.0-windows\become_god.pdb
 D:\c#\become_god\become_god\obj\Debug\net8.0-windows\become_god.genruntimeconfig.cache
 D:\c#\become_god\become_god\obj\Debug\net8.0-windows\ref\become_god.dll
+D:\c#\become_god\become_god\obj\Debug\net8.0-windows\become_god.daily_plain.resources
+D:\c#\become_god\become_god\obj\Debug\net8.0-windows\become_god.show_job.resources
+D:\c#\become_god\become_god\obj\Debug\net8.0-windows\become_god.sourcelink.json

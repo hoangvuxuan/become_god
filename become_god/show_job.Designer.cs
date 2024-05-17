@@ -30,6 +30,8 @@
         {
             aj_bt_delete = new Button();
             panel1 = new Panel();
+            aj_bt_edit = new Button();
+            aj_title = new TextBox();
             aj_cb_status = new ComboBox();
             aj_nup_to_minute = new NumericUpDown();
             aj_nup_to_h = new NumericUpDown();
@@ -38,7 +40,6 @@
             aj_nud_from_h = new NumericUpDown();
             aj_tb_job = new TextBox();
             aj_cb_done = new CheckBox();
-            aj_title = new TextBox();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)aj_nup_to_minute).BeginInit();
             ((System.ComponentModel.ISupportInitialize)aj_nup_to_h).BeginInit();
@@ -48,17 +49,19 @@
             // 
             // aj_bt_delete
             // 
-            aj_bt_delete.Location = new Point(889, 6);
+            aj_bt_delete.Location = new Point(957, 6);
             aj_bt_delete.Name = "aj_bt_delete";
             aj_bt_delete.Size = new Size(63, 29);
             aj_bt_delete.TabIndex = 9;
             aj_bt_delete.Text = "delete";
             aj_bt_delete.UseVisualStyleBackColor = true;
+            aj_bt_delete.Click += aj_bt_delete_Click;
             // 
             // panel1
             // 
             panel1.BackColor = SystemColors.ControlLight;
             panel1.BorderStyle = BorderStyle.FixedSingle;
+            panel1.Controls.Add(aj_bt_edit);
             panel1.Controls.Add(aj_title);
             panel1.Controls.Add(aj_bt_delete);
             panel1.Controls.Add(aj_cb_status);
@@ -71,8 +74,26 @@
             panel1.Controls.Add(aj_cb_done);
             panel1.Location = new Point(3, 3);
             panel1.Name = "panel1";
-            panel1.Size = new Size(957, 62);
+            panel1.Size = new Size(1025, 62);
             panel1.TabIndex = 1;
+            // 
+            // aj_bt_edit
+            // 
+            aj_bt_edit.Location = new Point(889, 6);
+            aj_bt_edit.Name = "aj_bt_edit";
+            aj_bt_edit.Size = new Size(63, 29);
+            aj_bt_edit.TabIndex = 11;
+            aj_bt_edit.Text = "save";
+            aj_bt_edit.UseVisualStyleBackColor = true;
+            aj_bt_edit.Click += aj_bt_edit_Click;
+            // 
+            // aj_title
+            // 
+            aj_title.Location = new Point(31, 5);
+            aj_title.Multiline = true;
+            aj_title.Name = "aj_title";
+            aj_title.Size = new Size(158, 48);
+            aj_title.TabIndex = 10;
             // 
             // aj_cb_status
             // 
@@ -81,6 +102,7 @@
             aj_cb_status.Name = "aj_cb_status";
             aj_cb_status.Size = new Size(107, 28);
             aj_cb_status.TabIndex = 7;
+            aj_cb_status.SelectedIndexChanged += aj_cb_status_SelectedIndexChanged;
             // 
             // aj_nup_to_minute
             // 
@@ -141,14 +163,7 @@
             aj_cb_done.Size = new Size(31, 16);
             aj_cb_done.TabIndex = 0;
             aj_cb_done.UseVisualStyleBackColor = true;
-            // 
-            // aj_title
-            // 
-            aj_title.Location = new Point(31, 5);
-            aj_title.Multiline = true;
-            aj_title.Name = "aj_title";
-            aj_title.Size = new Size(158, 48);
-            aj_title.TabIndex = 10;
+            aj_cb_done.CheckedChanged += aj_cb_done_CheckedChanged;
             // 
             // show_job
             // 
@@ -156,7 +171,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             Controls.Add(panel1);
             Name = "show_job";
-            Size = new Size(963, 68);
+            Size = new Size(1031, 68);
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)aj_nup_to_minute).EndInit();
@@ -179,5 +194,6 @@
         private TextBox aj_tb_job;
         private CheckBox aj_cb_done;
         private TextBox aj_title;
+        private Button aj_bt_edit;
     }
 }

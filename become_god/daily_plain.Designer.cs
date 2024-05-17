@@ -35,7 +35,7 @@
             label4 = new Label();
             label5 = new Label();
             dp_title = new TextBox();
-            db_content = new TextBox();
+            dp_content = new TextBox();
             label6 = new Label();
             dp_nud_from_minute = new NumericUpDown();
             dp_nud_from_h = new NumericUpDown();
@@ -109,13 +109,13 @@
             dp_title.Size = new Size(283, 27);
             dp_title.TabIndex = 6;
             // 
-            // db_content
+            // dp_content
             // 
-            db_content.Location = new Point(178, 161);
-            db_content.Multiline = true;
-            db_content.Name = "db_content";
-            db_content.Size = new Size(283, 108);
-            db_content.TabIndex = 8;
+            dp_content.Location = new Point(178, 161);
+            dp_content.Multiline = true;
+            dp_content.Name = "dp_content";
+            dp_content.Size = new Size(283, 108);
+            dp_content.TabIndex = 8;
             // 
             // label6
             // 
@@ -160,6 +160,7 @@
             dp_add_job.TabIndex = 14;
             dp_add_job.Text = "THÊM VIỆC";
             dp_add_job.UseVisualStyleBackColor = false;
+            dp_add_job.Click += dp_add_job_Click;
             // 
             // dp_nup_to_minute
             // 
@@ -188,7 +189,7 @@
             Controls.Add(dp_study_times);
             Controls.Add(dp_nud_from_minute);
             Controls.Add(dp_nud_from_h);
-            Controls.Add(db_content);
+            Controls.Add(dp_content);
             Controls.Add(label6);
             Controls.Add(dp_title);
             Controls.Add(label5);
@@ -217,7 +218,7 @@
         private Label label4;
         private Label label5;
         private TextBox dp_title;
-        private TextBox db_content;
+        private TextBox dp_content;
         private Label label6;
         private NumericUpDown dp_nud_from_minute;
         private NumericUpDown dp_nud_from_h;

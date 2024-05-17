@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\c#\\become_god\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|d:\\c#\\become_god\\become_god\\show_job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|solutionrelative:become_god\\show_job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|d:\\c#\\become_god\\become_god\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|D:\\c#\\become_god\\become_god\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|solutionrelative:become_god\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|d:\\c#\\become_god\\become_god\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|solutionrelative:become_god\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|d:\\c#\\become_god\\become_god\\all_class\\static_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|solutionrelative:become_god\\all_class\\static_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|d:\\c#\\become_god\\become_god\\daily_plain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|solutionrelative:become_god\\daily_plain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|d:\\c#\\become_god\\become_god\\all_class\\plan_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|solutionrelative:become_god\\all_class\\plan_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|d:\\c#\\become_god\\become_god\\daily_plain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA25057E-2E2D-4C34-9C72-52E0AD086940}|become_god\\become_god.csproj|solutionrelative:become_god\\daily_plain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 285,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\c#\\become_god\\become_god\\Form1.cs",
-              "RelativeDocumentMoniker": "become_god\\Form1.cs",
-              "ToolTip": "D:\\c#\\become_god\\become_god\\Form1.cs",
-              "RelativeToolTip": "become_god\\Form1.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAvwBQAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "daily_plain.cs",
+              "DocumentMoniker": "D:\\c#\\become_god\\become_god\\daily_plain.cs",
+              "RelativeDocumentMoniker": "become_god\\daily_plain.cs",
+              "ToolTip": "D:\\c#\\become_god\\become_god\\daily_plain.cs",
+              "RelativeToolTip": "become_god\\daily_plain.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADgvxkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T07:57:04.876Z",
+              "WhenOpened": "2024-05-17T13:29:47.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Static_Class.cs",
+              "DocumentMoniker": "D:\\c#\\become_god\\become_god\\all_class\\Static_Class.cs",
+              "RelativeDocumentMoniker": "become_god\\all_class\\Static_Class.cs",
+              "ToolTip": "D:\\c#\\become_god\\become_god\\all_class\\Static_Class.cs",
+              "RelativeToolTip": "become_god\\all_class\\Static_Class.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:28:14.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plan_Item.cs",
+              "DocumentMoniker": "D:\\c#\\become_god\\become_god\\all_class\\Plan_Item.cs",
+              "RelativeDocumentMoniker": "become_god\\all_class\\Plan_Item.cs",
+              "ToolTip": "D:\\c#\\become_god\\become_god\\all_class\\Plan_Item.cs",
+              "RelativeToolTip": "become_god\\all_class\\Plan_Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:32:15.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "show_job.cs [Design]",
-              "DocumentMoniker": "D:\\c#\\become_god\\become_god\\show_job.cs",
-              "RelativeDocumentMoniker": "become_god\\show_job.cs",
-              "ToolTip": "D:\\c#\\become_god\\become_god\\show_job.cs [Design]",
-              "RelativeToolTip": "become_god\\show_job.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T07:48:06.703Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "daily_plain.cs [Design]",
-              "DocumentMoniker": "D:\\c#\\become_god\\become_god\\daily_plain.cs",
-              "RelativeDocumentMoniker": "become_god\\daily_plain.cs",
-              "ToolTip": "D:\\c#\\become_god\\become_god\\daily_plain.cs [Design]",
-              "RelativeToolTip": "become_god\\daily_plain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T07:32:12.799Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs",
               "DocumentMoniker": "D:\\c#\\become_god\\become_god\\Form1.cs",
               "RelativeDocumentMoniker": "become_god\\Form1.cs",
-              "ToolTip": "D:\\c#\\become_god\\become_god\\Form1.cs [Design]",
-              "RelativeToolTip": "become_god\\Form1.cs [Design]",
+              "ToolTip": "D:\\c#\\become_god\\become_god\\Form1.cs",
+              "RelativeToolTip": "become_god\\Form1.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAwwIEAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T20:10:19.923Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-17T07:57:04.876Z",
+              "EditorCaption": ""
             }
           ]
         }

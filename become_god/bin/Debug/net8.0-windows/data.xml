@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plan_list>
+  <plan_item>
+    <title></title>
+    <content></content>
+    <Start_time>{X=0,Y=0}</Start_time>
+    <End_time>{X=0,Y=0}</End_time>
+    <Study_time>0</Study_time>
+    <Status>done</Status>
+    <Day>2024-05-17T20:39:25.0357905+07:00</Day>
+  </plan_item>
+  <plan_item>
+    <title></title>
+    <content></content>
+    <Start_time>{X=0,Y=0}</Start_time>
+    <End_time>{X=0,Y=0}</End_time>
+    <Study_time>0</Study_time>
+    <Status>doing</Status>
+    <Day>2024-05-17T20:39:27.1645576+07:00</Day>
+  </plan_item>
+</plan_list>
